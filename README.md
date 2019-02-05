@@ -12,7 +12,14 @@
 
 https://www.linkedin.com/in/sergio-rivera-02a3a417a/ 
 
-  
+### My Learning Style
+Hands on
+
+20% Auditory
+
+50% Hands on
+
+30% Visual
 
 ### Quantitative  
 
@@ -68,3 +75,7 @@ First week was fun, I got to know the people in my class pretty well. We got spl
 where we designed a board game. It was interesting seeing other peoples thought process into what makes a good game, I  
 learned a lot working with them. We had a few side projects that showed me how cool it can 
 be to integrate tech into things. I cant wait to see what else ill end up learning. 
+
+### Week 2 Reflection  
+
+The second week I started to understand things a bit more as far as how the class goes. We got our Vyond accounts set up and so that was pretty dope I made a few animated commercials that turned out silly.  Playing with Vyond and looking up how to use different features of the program was really helpful in trying to understand how to properly use it.  I set up my unity account as well but havent really played around with that program just yet but that’s my next project.  
