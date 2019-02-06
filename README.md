@@ -10,7 +10,9 @@
 
 ### My links 
 
-https://www.linkedin.com/in/sergio-rivera-02a3a417a/ 
+https://www.linkedin.com/in/sergio-rivera-02a3a417a/
+
+<a href="/sergio resume.pdf">Resume</a>
 
 ### My Learning Style
 Hands on
