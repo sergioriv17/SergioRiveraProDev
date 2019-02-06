@@ -71,6 +71,12 @@ and have a place where people can express what they are going through and maybe 
 
 <img src="/image0 (2).jpg">
 
+
+
+<img src="/sergidentity.jpg">
+
+
+
 ### Week 1 Reflection 
 
 First week was fun, I got to know the people in my class pretty well. We got split into groups to work on a project 
