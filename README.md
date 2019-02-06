@@ -67,7 +67,7 @@ What: Use different platforms/media outlets to make it possible so that it reach
 Hello! My name is Sergio and I would like to use all sorts artistic mediums to spred mental health awareness 
 and have a place where people can express what they are going through and maybe seek the help they need. 
 
-  
+<img src="/image0 (2).jpg">
 
 ### Week 1 Reflection 
 
