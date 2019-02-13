@@ -87,3 +87,8 @@ be to integrate tech into things. I cant wait to see what else ill end up learni
 ### Week 2 Reflection  
 
 The second week I started to understand things a bit more as far as how the class goes. We got our Vyond accounts set up and so that was pretty dope I made a few animated commercials that turned out silly.  Playing with Vyond and looking up how to use different features of the program was really helpful in trying to understand how to properly use it.  I set up my unity account as well but havent really played around with that program just yet but that’s my next project.  
+
+### Week 3 Reflection 
+
+Week three I worked on a digital drawing for the CNM nature walk of the Sandia mountains, hopefully they like it because if they do they’ll end up displaying it. Other than that I worked with my team preparing our first podcast episode and played around with unity some more.  Britney also took us to the makers space close by and that was dope, they have so many tools I want to use so maybe ill sign up. 
+
