@@ -76,6 +76,9 @@ and have a place where people can express what they are going through and maybe 
 <img src="/sergidentity.jpg">
 
 
+<img src="/burner.jpg">
+
+
 
 ### Week 1 Reflection 
 
