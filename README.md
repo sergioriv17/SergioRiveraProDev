@@ -78,7 +78,9 @@ and have a place where people can express what they are going through and maybe 
 
 <img src="/burner.jpg">
 
+Animal protection of New Mexico https://apnm.org/
 
+Twin Suns http://twinsunscomics.com/
 
 ### Week 1 Reflection 
 
