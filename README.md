@@ -97,3 +97,12 @@ The second week I started to understand things a bit more as far as how the clas
 
 Week three I worked on a digital drawing for the CNM nature walk of the Sandia mountains, hopefully they like it because if they do they’ll end up displaying it. Other than that I worked with my team preparing our first podcast episode and played around with unity some more.  Britney also took us to the makers space close by and that was dope, they have so many tools I want to use so maybe ill sign up. 
 
+
+### Weekly reflection  
+
+Our team work was okay at best I think we were just confused by the rules at first. If we kept our cool we 
+could have definitely done better. So maybe next time we can just take it slow instead
+to perfect a strategy.  
+
+ 
+
